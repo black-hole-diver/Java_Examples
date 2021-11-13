@@ -11,5 +11,6 @@ public class Scanner_Code{
         int age = input.nextInt();
 
         System.out.print("Your name is: " + name + "\nYou are " + age + " years old.\nNext year you will be " + (age+1) + " years old.\n");
+    
     }
 }

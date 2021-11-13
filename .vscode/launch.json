@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalendarTest",
+            "request": "launch",
+            "mainClass": "CalendarTest",
+            "projectName": "GitHub_5022aab5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CompoundInterest",
+            "request": "launch",
+            "mainClass": "CompoundInterest",
+            "projectName": "GitHub_5022aab5"
+        },
+        {
+            "type": "java",
+            "name": "Launch LotteryArray",
+            "request": "launch",
+            "mainClass": "LotteryArray",
+            "projectName": "GitHub_5022aab5"
+        },
+        {
+            "type": "java",
+            "name": "Launch LotteryDrawing",
+            "request": "launch",
+            "mainClass": "LotteryDrawing",
+            "projectName": "GitHub_5022aab5"
+        },
+        {
+            "type": "java",
+            "name": "Launch LotteryOdds",
+            "request": "launch",
+            "mainClass": "LotteryOdds",
+            "projectName": "GitHub_5022aab5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Retirement",
+            "request": "launch",
+            "mainClass": "Retirement",
+            "projectName": "GitHub_5022aab5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Retirement2",
+            "request": "launch",
+            "mainClass": "Retirement2",
+            "projectName": "GitHub_5022aab5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Scanner_Code",
+            "request": "launch",
+            "mainClass": "Scanner_Code",
+            "projectName": "GitHub_5022aab5"
+        },
+        {
+            "type": "java",
+            "name": "Launch String_Builder",
+            "request": "launch",
+            "mainClass": "String_Builder",
+            "projectName": "GitHub_5022aab5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Travel",
+            "request": "launch",
+            "mainClass": "travelling.Travel",
+            "projectName": "GitHub_5022aab5"
+        }
+    ]
+}
